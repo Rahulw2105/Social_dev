@@ -11,5 +11,8 @@
     "expressjs"
   ],
   "author": "Rahul Wankhede",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^9.1.1"
+  }
 }
